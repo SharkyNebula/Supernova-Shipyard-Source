@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="Antimatter Torpedo 3.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 22.433158 22.433459"
+   height="22.43346mm"
+   width="22.433161mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\SN\GitHub\Supernova-Shipyard-Source\Outlines - Projectiles\Antimatter Torpedo 4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65779745"
+     inkscape:cx="-233.35451"
+     inkscape:cy="149.74214"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(294.833, 798.432)">
+    <path
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -294.83253,-787.21537 v -11.21694 h 1.49391 1.49389 l -6.7e-4,11.20967 -7e-4,11.20969 -1.49308,0.007 -1.49308,0.007 z"
+       id="path102" />
+    <path
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -287.97633,-778.29861 c -0.77837,-0.0993 -1.41768,-0.6713 -1.6139,-1.44389 -0.0566,-0.22263 -0.057,-0.279 -0.057,-7.45242 0,-3.97545 0.008,-7.27526 0.0181,-7.3329 0.0715,-0.41552 0.24979,-0.75196 0.56451,-1.06469 0.25358,-0.252 0.45769,-0.37319 0.82198,-0.48808 l 0.21032,-0.0663 h 4.41656 4.41659 l 0.2103,0.0658 c 0.3524,0.11035 0.57942,0.24583 0.82825,0.49429 0.3094,0.30894 0.47957,0.62708 0.54786,1.02421 0.0364,0.21196 0.0366,14.52015 7e-5,14.7079 -0.13852,0.71363 -0.63527,1.26241 -1.36219,1.50486 l -0.19629,0.0654 -4.31843,0.004 c -2.37514,0.002 -4.39414,-0.006 -4.48668,-0.0179 z"
+       id="path206" />
+    <path
+       style="fill:#000000;stroke-width:0.0280417"
+       d="m -275.37746,-776.03398 c -0.0107,-0.0301 -0.007,-22.21333 0.002,-22.34925 0.004,-0.0461 0.0945,-0.049 1.48989,-0.049 h 1.4862 v 11.21669 11.21669 h -1.4832 c -1.16154,0 -1.48579,-0.007 -1.4951,-0.035 z"
+       id="path204" />
+    <text
+       x="-300.84756"
+       y="-731.23816"
+       id="text122"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-weight:normal;font-size:26.4583px;text-align:center;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         dy="14.816665"
+         id="tspan120"
+         x="-300.84756"
+         y="-731.23816">3031.26 px<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan118">2</tspan></tspan></text>
+  </g>
+</svg>
