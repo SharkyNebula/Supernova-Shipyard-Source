@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Supernova-Shipyard-Source
+Upstream-Contact: Ravelin Sol <ravelinsol@gmail.com>
+Source: https://github.com/SharkyNebula/Supernova-Shipyard-Source
+
+Files: *
+Copyright: Ravelin Sol <ravelinsol@gmail.com>
+License: CC BY-NC-SA 4.0
